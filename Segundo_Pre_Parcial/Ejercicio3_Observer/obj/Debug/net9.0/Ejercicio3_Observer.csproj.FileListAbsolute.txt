@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\bin\Debug\net9.0\Ejercicio3_Observer.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\bin\Debug\net9.0\Ejercicio3_Observer.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\bin\Debug\net9.0\Ejercicio3_Observer.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\bin\Debug\net9.0\Ejercicio3_Observer.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\bin\Debug\net9.0\Ejercicio3_Observer.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\refint\Ejercicio3_Observer.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\Ejercicio3_Observer.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio3_Observer\obj\Debug\net9.0\ref\Ejercicio3_Observer.dll

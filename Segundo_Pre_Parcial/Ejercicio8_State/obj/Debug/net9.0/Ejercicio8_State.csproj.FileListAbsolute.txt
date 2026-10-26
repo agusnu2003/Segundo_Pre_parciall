@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\bin\Debug\net9.0\Ejercicio8_State.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\bin\Debug\net9.0\Ejercicio8_State.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\bin\Debug\net9.0\Ejercicio8_State.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\bin\Debug\net9.0\Ejercicio8_State.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\bin\Debug\net9.0\Ejercicio8_State.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\refint\Ejercicio8_State.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\Ejercicio8_State.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio8_State\obj\Debug\net9.0\ref\Ejercicio8_State.dll

@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\bin\Debug\net9.0\Ejercicio2_Strategy.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\bin\Debug\net9.0\Ejercicio2_Strategy.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\bin\Debug\net9.0\Ejercicio2_Strategy.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\bin\Debug\net9.0\Ejercicio2_Strategy.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\bin\Debug\net9.0\Ejercicio2_Strategy.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\refint\Ejercicio2_Strategy.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\Ejercicio2_Strategy.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio2_Strategy\obj\Debug\net9.0\ref\Ejercicio2_Strategy.dll

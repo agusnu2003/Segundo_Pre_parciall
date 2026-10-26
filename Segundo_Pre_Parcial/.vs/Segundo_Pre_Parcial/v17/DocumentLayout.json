@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\BLL\\Chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Leche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\BLL\\Leche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\CafeSimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4_Decorator\\Domain\\CafeSimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Domain\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\Domain\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioExpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\BLL\\EnvioExpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Domain\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\Domain\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\AlertaCompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\BLL\\AlertaCompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\ISujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\ISujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\IObservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\IObservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\AlertaCompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\AlertaCompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\PantallaAlmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio3_Observer\\PantallaAlmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Program.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:35:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Leche.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Leche.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\BLL\\Leche.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Leche.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\BLL\\Leche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:34:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Chocolate.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\BLL\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\Chocolate.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\BLL\\Chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:34:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregadoDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\BLL\\AgregadoDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:33:46.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBebida.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\Domain\\Interfaces\\IBebida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:33:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CafeSimple.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\CafeSimple.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Decorator\\Domain\\CafeSimple.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio4_Decorator\\Domain\\CafeSimple.cs",
+              "RelativeToolTip": "Ejercicio4_Decorator\\Domain\\CafeSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:33:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Program.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:33:10.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEstrategiaEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\BLL\\Interfaces\\IEstrategiaEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:32:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnvioRetiroSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\BLL\\EnvioRetiroSucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:32:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnvioExpress.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioExpress.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\BLL\\EnvioExpress.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioExpress.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\BLL\\EnvioExpress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:32:50.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnvioEstandar.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\BLL\\EnvioEstandar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:32:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Domain\\Pedido.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Strategy\\Domain\\Pedido.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio2_Strategy\\Domain\\Pedido.cs",
+              "RelativeToolTip": "Ejercicio2_Strategy\\Domain\\Pedido.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:32:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Program.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:29:05.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Domain\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\Domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Domain\\Producto.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\Domain\\Producto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:29:02.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PantallaAlmacen.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\BLL\\PantallaAlmacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:28:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlertaCompras.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\AlertaCompras.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\BLL\\AlertaCompras.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\BLL\\AlertaCompras.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\BLL\\AlertaCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:28:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\Producto.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\Producto.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:50:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PantallaAlmacen.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\PantallaAlmacen.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\PantallaAlmacen.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\PantallaAlmacen.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\PantallaAlmacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:50:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISujeto.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\ISujeto.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\ISujeto.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\ISujeto.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\ISujeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:50:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IObservador.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\IObservador.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\IObservador.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\IObservador.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\IObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:50:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlertaCompras.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\AlertaCompras.cs",
+              "RelativeDocumentMoniker": "Ejercicio3_Observer\\AlertaCompras.cs",
+              "ToolTip": "C:\\Users\\agusn\\OneDrive\\Documentos\\GitHub\\Segundo_Pre_Parcial\\Ejercicio3_Observer\\AlertaCompras.cs",
+              "RelativeToolTip": "Ejercicio3_Observer\\AlertaCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:50:16.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

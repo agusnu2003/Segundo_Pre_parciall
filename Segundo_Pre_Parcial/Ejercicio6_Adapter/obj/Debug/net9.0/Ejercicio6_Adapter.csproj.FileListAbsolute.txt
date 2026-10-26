@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\bin\Debug\net9.0\Ejercicio6_Adapter.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\bin\Debug\net9.0\Ejercicio6_Adapter.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\bin\Debug\net9.0\Ejercicio6_Adapter.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\bin\Debug\net9.0\Ejercicio6_Adapter.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\bin\Debug\net9.0\Ejercicio6_Adapter.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\refint\Ejercicio6_Adapter.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\Ejercicio6_Adapter.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio6_Adapter\obj\Debug\net9.0\ref\Ejercicio6_Adapter.dll

@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\bin\Debug\net9.0\Ejercicio7_Singleton.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\bin\Debug\net9.0\Ejercicio7_Singleton.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\bin\Debug\net9.0\Ejercicio7_Singleton.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\bin\Debug\net9.0\Ejercicio7_Singleton.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\bin\Debug\net9.0\Ejercicio7_Singleton.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\refint\Ejercicio7_Singleton.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\Ejercicio7_Singleton.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio7_Singleton\obj\Debug\net9.0\ref\Ejercicio7_Singleton.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejercicio3_Observer/1.0.0": {
+        "runtime": {
+          "Ejercicio3_Observer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio3_Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ejercicio2_Strategy",
+    "\\Ejercicio2_Strategy\\BLL",
+    "\\Ejercicio2_Strategy\\BLL\\Interfaces",
+    "\\Ejercicio2_Strategy\\Domain",
+    "\\Ejercicio3_Observer\\BLL",
+    "\\Ejercicio3_Observer\\BLL\\Interfaces",
+    "\\Ejercicio4_Decorator",
+    "\\Ejercicio4_Decorator\\BLL",
+    "\\Ejercicio4_Decorator\\Domain"
+  ],
+  "SelectedNode": "\\Ejercicio4_Decorator\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

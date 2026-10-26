@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\bin\Debug\net9.0\Ejercicio4_Decorator.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\bin\Debug\net9.0\Ejercicio4_Decorator.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\bin\Debug\net9.0\Ejercicio4_Decorator.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\bin\Debug\net9.0\Ejercicio4_Decorator.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\bin\Debug\net9.0\Ejercicio4_Decorator.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\refint\Ejercicio4_Decorator.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\Ejercicio4_Decorator.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio4_Decorator\obj\Debug\net9.0\ref\Ejercicio4_Decorator.dll

@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\bin\Debug\net9.0\Ejercicio5_FactoryMethod.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\bin\Debug\net9.0\Ejercicio5_FactoryMethod.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\bin\Debug\net9.0\Ejercicio5_FactoryMethod.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\bin\Debug\net9.0\Ejercicio5_FactoryMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\bin\Debug\net9.0\Ejercicio5_FactoryMethod.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\refint\Ejercicio5_FactoryMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\Ejercicio5_FactoryMethod.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio5_FactoryMethod\obj\Debug\net9.0\ref\Ejercicio5_FactoryMethod.dll

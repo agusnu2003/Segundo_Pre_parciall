@@ -1,0 +1,14 @@
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\bin\Debug\net9.0\Ejercicio1_TemplateMethod.exe
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\bin\Debug\net9.0\Ejercicio1_TemplateMethod.deps.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\bin\Debug\net9.0\Ejercicio1_TemplateMethod.runtimeconfig.json
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\bin\Debug\net9.0\Ejercicio1_TemplateMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\bin\Debug\net9.0\Ejercicio1_TemplateMethod.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.AssemblyInfo.cs
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\refint\Ejercicio1_TemplateMethod.dll
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.pdb
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\Ejercicio1_TemplateMethod.genruntimeconfig.cache
+C:\Users\agusn\OneDrive\Documentos\GitHub\Segundo_Pre_Parcial\Ejercicio1_TemplateMethod\obj\Debug\net9.0\ref\Ejercicio1_TemplateMethod.dll
